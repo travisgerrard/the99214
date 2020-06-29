@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `the99214`,
+    title: `the_99214`,
     description: `Thoughts on medicine and technology`,
     author: `Dr. Gerrard`,
   },

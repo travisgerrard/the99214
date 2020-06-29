@@ -12,10 +12,10 @@ export default function Home({ data }) {
         <h1
           css={css`
             display: inline-block;
-            border-bottom: 1px solid;
+            /* border-bottom: 1px solid; */
           `}
         >
-          Amazing Pandas Eating Things
+          the_99214
         </h1>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
         {data.allMarkdownRemark.edges.map(({ node }) => (

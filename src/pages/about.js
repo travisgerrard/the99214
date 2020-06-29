@@ -7,8 +7,11 @@ export default function About({ data }) {
     <Layout>
       <h1>About {data.site.siteMetadata.title}</h1>
       <p>
-        We're the only site running on your computer dedicated to showing the
-        best photos and videos of pandas eating lots of food.
+        I was watching The Art of Doing Science and Engineering videos on
+        youtube and was thinking about how it relates to my profession, being a
+        doctor. The thoughts I had slipped away, as always. Then I had a new
+        thought, why not write your thoughts down. I'm only half sarcastic.
+        Anyway, this site is the result of the above thoughts.
       </p>
     </Layout>
   )
