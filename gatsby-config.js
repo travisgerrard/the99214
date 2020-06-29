@@ -6,9 +6,9 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
-    description: `A simple description about pandas eating lots...`,
-    author: `gatsbyjs`,
+    title: `the99214`,
+    description: `Thoughts on medicine and technology`,
+    author: `Dr. Gerrard`,
   },
   /* Your site config here */
   plugins: [
